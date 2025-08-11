@@ -24,14 +24,16 @@ python unit_converter.py
 
 ## 📋 Example
 
-- Unit Converter
-- 1. Kilometers to Miles
-- 2. Miles to Kilometers
-- 3. Celsius to Fahrenheit
-- 4. Fahrenheit to Celsius
-- 5. Kilograms to Pounds
-- 6. Pounds to Kilograms
-- 7. Exit
-- Select an option (1-7): 1
-- Enter kilometers: 10
-- 10.0 km = 6.21 miles
+```
+Unit Converter
+1. Kilometers to Miles
+2. Miles to Kilometers
+3. Celsius to Fahrenheit
+4. Fahrenheit to Celsius
+5. Kilograms to Pounds
+6. Pounds to Kilograms
+7. Exit
+   Select an option (1-7): 1
+   Enter kilometers: 10
+   10.0 km = 6.21 miles
+```
